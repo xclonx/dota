@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Circe';
+    src: url('Circe-Regular.eot');
+    src: url('Circe-Regulard41d.eot') format('embedded-opentype'),
+         url('Circe-Regular.svg') format('svg'),
+         url('Circe-Regular.woff') format('woff'),
+         url('Circe-Regular.ttf') format('truetype');
+         
+    font-weight: 400;
+    font-style: normal;
+}@font-face {
+    font-family: 'Circe';
+    src: url('Circe-Bold.eot');
+    src: url('Circe-Boldd41d.eot') format('embedded-opentype'),
+         url('Circe-Bold.svg') format('svg'),
+         url('Circe-Bold.woff') format('woff'),
+         url('Circe-Bold.ttf') format('truetype');
+         
+    font-weight: 600;
+    font-style: normal;
+}@font-face {
+    font-family: 'Circe';
+    src: url('Circe-Light.eot');
+    src: url('Circe-Lightd41d.eot') format('embedded-opentype'),
+         url('Circe-Light.svg') format('svg'),
+         url('Circe-Light.woff') format('woff'),
+         url('Circe-Light.ttf') format('truetype');
+         
+    font-weight: 300;
+    font-style: normal;
+}@font-face {
+    font-family: 'Circe';
+    src: url('Circe-ExtraLight.eot');
+    src: url('Circe-ExtraLightd41d.eot') format('embedded-opentype'),
+         url('Circe-ExtraLight.svg') format('svg'),
+         url('Circe-ExtraLight.woff') format('woff'),
+         url('Circe-ExtraLight.ttf') format('truetype');
+         
+    font-weight: 200;
+    font-style: normal;
+}@font-face {
+    font-family: 'Circe';
+    src: url('Circe-Thin.eot');
+    src: url('Circe-Thind41d.eot') format('embedded-opentype'),
+         url('Circe-Thin.svg') format('svg'),
+         url('Circe-Thin.woff') format('woff'),
+         url('Circe-Thin.ttf') format('truetype');
+         
+    font-weight: 100;
+    font-style: normal;
+}

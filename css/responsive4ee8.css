@@ -1,0 +1,278 @@
+	@media(max-width: 1421px) {
+		.block-white.substrate {
+			display: none;
+		}
+		#servers {
+	    margin-top: 12px;
+        }
+		#header {
+			padding-top: 70px;
+		}
+		#headers {
+			padding-top: 70px;
+		}
+		#servers strong {
+			font-size: 92px;
+		}
+	}
+
+	@media(max-width: 997px) {
+
+		.monit {
+			width: 100%;
+			height: 240px;
+			background: url(../images/monit.png) no-repeat top center;
+			background-size: 100% auto;
+		}
+		.button-right-wrap {
+			position: relative;
+			margin: 0;
+		}
+		.video-padd-left {
+			padding: 0 30px 30px;
+		}
+		.menu-main {
+			display: none;
+		}
+		.mobile-menu-activate {
+			display: block;
+		}
+		.left-man,
+		.right-man {
+			display: none;
+		}
+		.button-left-wrap,
+		.button-right-wrap {
+			margin: 0;
+			padding: 0;
+			display: block;
+			width: 100%;
+			text-align: center;
+		}
+			.news-list-in-news {
+	  display: grid;
+  grid-template-columns: 1fr;
+  grid-column-gap: 0px;
+}
+
+		.informer > .containers {
+			width: 10%;
+		}
+
+.news-list-in-news > div {
+  padding: 2px 0 2px 2px;
+  display: grid;
+  grid-template-columns: 95px 1fr;
+}
+
+.news-list-in-news > div .n-preview {
+  width: 120px;
+  height: 80px;
+}
+.news-list-in-news > div .n-preview img {
+  height: 80px;
+}
+		.button-right-wrap > p,
+		.button-left-wrap > p {
+			text-align: left;
+			margin: 0;
+		}
+		.have-mods {
+			width: 280px;
+		}
+		#content.mods {
+			padding-top: 30px;
+		}
+	}
+
+	@media(max-width: 768px) {
+
+		.informer > .container {
+			width: 100%;
+		}
+		
+		.informer > .containers {
+			width: 50%;
+		}
+		
+		
+		.canwin-wrap .col-xs-3 {
+			height: 80px;
+		}
+		.img-wrp-win img {
+			max-height: 60%;
+			width: auto;
+		}
+		.rulet-go-but {
+			padding: 30px 60px;
+		}
+		.ruletbuttons a {
+			margin: 0 0 10px;
+		}
+		.title {
+			font-size: 30px;
+		}
+		.admins-list li {
+			font-size: 13px;
+		}
+
+		body.donate-page {
+			background: #fff
+		}
+		body.donate-page #content.donate {
+			background: url(../images/bg_mobile_donate.png) no-repeat bottom center;
+		}
+		.button-go {
+			margin: 0;
+		}
+		.titlein {
+			margin: 0;
+		}
+		.offer {
+			margin: 0 auto;
+		}
+		#header {
+			background-position: center;
+			
+            background-size: auto;
+			padding-top: 70px;
+			height: 800px;
+		}
+		.how-to #header {
+			height: auto
+		}
+		#headers {
+			background-position: center;
+			height: 100%;
+            background-size: cover;
+			padding-top: 70px;
+
+		}
+		.how-to #headers {
+			height: auto
+		}
+		#price_div {
+			width: 80%;
+		}
+		.info-how {
+			margin-bottom: 100px;
+		}
+		.button-go {
+			height: 236px;
+		}
+		#vk p {
+			font-size: 30px;
+		}
+		.man {
+			right: 160px;
+		}
+		#footer p strong {
+			margin: 20px 0 10px;
+		}
+		#footer {
+			text-align: center;
+		}
+		.url-list.social {
+			text-align: center;
+		}
+		#vk .but-main.dark {
+			float: right;
+		}
+		#vk p {
+			text-align: right;
+		}
+		.left_mid {
+			padding-right: 0;
+		}
+		.right_mid {
+			padding-left: 0;
+		}
+	.news-list-in-news {
+	  display: grid;
+  grid-template-columns: 1fr;
+}
+		.person {
+			height: auto;
+			text-align: center;
+			padding: 40px;
+		}
+		.user-info {
+			display: block;
+			clear: both;
+		}
+		.lvl {
+			display: none;
+		}
+		.skin-circe {
+			left: 50%;
+			margin-left: -70px;
+		}
+		#lvl-progress {
+			left: 50%;
+			margin-left: -85px;
+		}
+		#lvl-progress .progressbar-text {
+			margin-left: -77px !important;
+			font-weight: bold;
+			margin-bottom: -7px !important;
+			font-size: 10px;
+			padding: 2px !important;
+			background: rgb(21, 112, 160);
+			line-height: 9px;
+			border-radius: 4px;
+		}
+		.circle-gun {
+			margin: 10px auto 30px;
+		}
+		.buttons-bar {
+			text-align: center;
+		}
+		.guns-bar {
+			text-align: center;
+		}
+		.gun {
+			margin: 5px;
+		}
+		.cabinet-wrap.protect {
+			text-align: center;
+		}
+		.left-title {
+			padding-right: 0px;
+			text-align: center;
+		}
+		.left-title h2 {
+			text-align: center;
+		}
+		.but-main.dark {
+			min-width: 220px;
+		}
+		#login .title {
+			margin: 20px 0;
+		}
+	}
+
+@media(max-width:500px) {
+	
+		.monit {
+			background: url(../images/monit.png) no-repeat bottom center;
+			background-size: 100% auto;
+		}
+			.news-list-in-news {
+	  display: grid;
+  grid-template-columns: 1fr;
+}
+	.launch-large {
+	font-size: 40px;	
+		margin-bottom: 30px;
+	}
+	.launch-desc {
+		font-size: 25px;
+		margin-bottom: 20px;
+	}
+			.informer > .containers {
+			width: 50%;
+		}
+	.launching {
+		padding-top: 60px;
+	}
+}
